@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "56146199702",
+    "project_id": "flash-chat-8e5f6",
+    "storage_bucket": "flash-chat-8e5f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56146199702:android:89161b086f2ce3e98aaeb7",
+        "android_client_info": {
+          "package_name": "com.hrutvik.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56146199702-karhql35es3e03imiaggvu1ciuta4b44.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3z1rntBiLcza9Kem9PaC2LJawPaiafTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56146199702-karhql35es3e03imiaggvu1ciuta4b44.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
